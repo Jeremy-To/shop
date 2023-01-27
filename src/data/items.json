@@ -15,7 +15,7 @@
     "id": 3,
     "name": "Moby Dick",
     "price": 10.99,
-    "imgUrl": "public/imgs/Moby_Dick.jpg"
+    "imgUrl": "imgs/Moby_Dick.jpg"
   },
   {
     "id": 4,
