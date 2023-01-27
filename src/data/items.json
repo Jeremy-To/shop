@@ -1,26 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "name": "Alice's adventures in Wonderland",
+    "price": 9.99,
+    "imgUrl": "imgs/alicesadventuresinwonderland.jpeg"
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
+    "name": "Karamazov Brothers",
+    "price": 20,
+    "imgUrl": "imgs/Karamazov_Brothers.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "name": "Moby Dick",
+    "price": 10.99,
+    "imgUrl": "public/imgs/Moby_Dick.jpg"
   },
   {
     "id": 4,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg"
+    "name": "Lolita",
+    "price": 14.99,
+    "imgUrl": "imgs/nabokov_-lolita.jpg"
+  },
+  {
+    "id": 5,
+    "name": "War and Peace",
+    "price": 19.99,
+    "imgUrl": "imgs/War-and-Peace-by-Leo-Tolstoy.jpg"
   }
 ]
